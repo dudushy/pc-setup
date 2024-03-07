@@ -14,13 +14,13 @@
 
 - [x] 8. `R$229,51` Water Cooler Rise Mode Gamer Black, RGB, 240mm, Preto - RM-WCB-02-RGB [link][water_cooler]
 
-> - [ ] 9. `R$222,93` Kit Microfone Rgb Gamer Usb Tomate + Suporte Mesa Articulado Cor Preto [link][mic]
+- [ ] 9. `R$222,93` Kit Microfone Rgb Gamer Usb Tomate + Suporte Mesa Articulado Cor Preto [link][mic]
 
-> - [ ] 10. `R$521,80` Headset Gamer Fallen Pantera Wireless Preto [link][headset]
+- [ ] 10. `R$521,80` Headset Gamer Fallen Pantera Wireless Preto [link][headset]
 
-> - [ ] 11. `R$??` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
+- [ ] 11. `R$??` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
 
-> - [ ] 12. `R$??` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
+- [ ] 12. `R$??` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
 
 ---
 # TOTAL: `R$7.150,85` (outdated)
