@@ -20,10 +20,10 @@
 
 - [ ] 11. `R$188,00` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
 
-- [ ] 12. `R$172,68` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
+- [x] 12. `R$172,68` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
 
 ---
-# TOTAL: `R$7.895,58` (checked items)
+# TOTAL: `R$8.068,26` (checked items)
 > TOTAL: `R$8.256,26` (all items)
 
 [ram]: https://www.kabum.com.br/produto/259455/memoria-xpg-lancer-rgb-16gb-5200mhz-ddr5-cl38-preto-ax5u5200c3816g-clarbk?gad_source=1
