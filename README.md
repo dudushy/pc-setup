@@ -14,16 +14,17 @@
 
 - [x] 8. `R$229,51` Water Cooler Rise Mode Gamer Black, RGB, 240mm, Preto - RM-WCB-02-RGB [link][water_cooler]
 
-- [ ] 9. `R$222,93` Kit Microfone Rgb Gamer Usb Tomate + Suporte Mesa Articulado Cor Preto [link][mic]
+- [x] 9. `R$222,93` Kit Microfone Rgb Gamer Usb Tomate + Suporte Mesa Articulado Cor Preto [link][mic]
 
 - [ ] 10. `R$521,80` Headset Gamer Fallen Pantera Wireless Preto [link][headset]
 
-- [ ] 11. `R$??` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
+- [ ] 11. `R$188,00` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
 
-- [ ] 12. `R$??` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
+- [ ] 12. `R$172,68` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
 
 ---
-# TOTAL: `R$7.150,85` (outdated)
+# TOTAL: `R$7.373,78` (checked items)
+> TOTAL: `R$8.256,26` (all items)
 
 [ram]: https://www.kabum.com.br/produto/259455/memoria-xpg-lancer-rgb-16gb-5200mhz-ddr5-cl38-preto-ax5u5200c3816g-clarbk?gad_source=1
 [placa_mae]: https://www.pichau.com.br/placa-mae-gigabyte-b760m-aorus-elite-ddr5-socket-lga-1700-m-atx-chipset-intel-b760-b760m-aorus-elite?gad_source=1
