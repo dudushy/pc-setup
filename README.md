@@ -23,7 +23,7 @@
 - [ ] 12. `R$172,68` Mouse gamer Razer DeathAdder Essential, Classic Black [link][mouse]
 
 ---
-# TOTAL: `R$7.373,78` (checked items)
+# TOTAL: `R$7.895,58` (checked items)
 > TOTAL: `R$8.256,26` (all items)
 
 [ram]: https://www.kabum.com.br/produto/259455/memoria-xpg-lancer-rgb-16gb-5200mhz-ddr5-cl38-preto-ax5u5200c3816g-clarbk?gad_source=1
