@@ -16,7 +16,7 @@
 
 - [x] 9. `R$222,93` Kit Microfone Rgb Gamer Usb Tomate + Suporte Mesa Articulado Cor Preto [link][mic]
 
-- [ ] 10. `R$521,80` Headset Gamer Fallen Pantera Wireless Preto [link][headset]
+- [x] 10. `R$521,80` Headset Gamer Fallen Pantera Wireless Preto [link][headset]
 
 - [ ] 11. `R$188,00` Teclado Gamer Mecânico RGB CRUISER Dark Grey Fortrek [link][teclado]
 
